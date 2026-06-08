@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Receita",
+        "categoria": "salario",
+        "valor": 1000.0
+    },
+    {
+        "tipo": "Despesa",
+        "categoria": "academia",
+        "valor": 105.0
+    },
+    {
+        "tipo": "Despesa",
+        "categoria": "celular",
+        "valor": 375.0
+    },
+    {
+        "tipo": "Despesa",
+        "categoria": "cachorro",
+        "valor": 150.0
+    },
+    {
+        "tipo": "Despesa",
+        "categoria": "assinatura",
+        "valor": 30.0
+    },
+    {
+        "tipo": "Despesa",
+        "categoria": "suplementos",
+        "valor": 150.0
+    },
+    {
+        "tipo": "Despesa",
+        "categoria": "monitor",
+        "valor": 140.0
+    }
+]
